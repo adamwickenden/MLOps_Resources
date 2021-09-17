@@ -4,6 +4,7 @@
 
 # MLOps Resources
 GCP
+- [MLOps White Paper](./practitioners_guide_to_mlops_whitepaper.pdf)
 - [MLOps using Vertex AI](https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai)
 
 Azure
